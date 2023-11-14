@@ -1,3 +1,7 @@
 version: "1"
 
-module_version: "1.0.1"
+module_version: "1.0.2"
+
+tests:
+  - name: Test entire module
+  - project_root: examples/1
